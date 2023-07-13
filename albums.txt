@@ -1,0 +1,149 @@
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 35dut3ICqF3NEDkjxfzJJ1 || Album Name: Starboy (Deluxe) || Release Date: 2023-03-14 || No. of Tracks: 21 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 1OARrXe5sB0gyy3MhQ8h92 || Album Name: Live At SoFi Stadium || Release Date: 2023-03-03 || No. of Tracks: 31 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 4M2Mf4pmARKGVT9MLCe3HA || Album Name: Avatar: The Way of Water (Original Motion Picture Soundtrack) || Release Date: 2022-12-15 || No. of Tracks: 22 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 12INlMsFtBjyehNnawBv36 || Album Name: Dawn FM (Alternate World) || Release Date: 2022-01-07 || No. of Tracks: 24 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 2nLOHgzXzwFEpl62zAgCEC || Album Name: Dawn FM || Release Date: 2022-01-06 || No. of Tracks: 16 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 742eAldb4AJKLoPgJhGRE7 || Album Name: After Hours (Deluxe) || Release Date: 2020-03-20 || No. of Tracks: 18 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 4yP0hdKOZPNshxUOjY0cZj || Album Name: After Hours || Release Date: 2020-03-20 || No. of Tracks: 14 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 4qZBW3f2Q8y0k1A84d4iAO || Album Name: My Dear Melancholy, || Release Date: 2018-03-30 || No. of Tracks: 7 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 2ODvWsOgouMbaA5xf0RkJe || Album Name: Starboy || Release Date: 2016-11-25 || No. of Tracks: 18 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 0P3oVJBFOv3TDXlYRhGL7s || Album Name: Beauty Behind The Madness || Release Date: 2015-08-28 || No. of Tracks: 14 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 6wRev1uYL0JsMsWqktJuVi || Album Name: Kiss Land (Deluxe) || Release Date: 2013-09-10 || No. of Tracks: 12 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 3hhDpPtCFuQbppwYgsVhMO || Album Name: Kiss Land || Release Date: 2013-09-10 || No. of Tracks: 10 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 5EbpxRwbbpCJUepbqVTZ1U || Album Name: Trilogy || Release Date: 2012-11-13 || No. of Tracks: 30 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 04hy4jb1GDD00otiwzsFUB || Album Name: Echoes Of Silence (Original) || Release Date: 2011-12-21 || No. of Tracks: 9 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 6F87lH0I09qlrzvCCKc7lz || Album Name: Thursday (Original) || Release Date: 2011-08-18 || No. of Tracks: 9 || Album Type: album
+Artist ID: 1Xyo4u8uXC1ZmMpatF05PJ || Album ID: 7zCODUHkfuRxsUjtuzNqbd || Album Name: House Of Balloons (Original) || Release Date: 2011-03-21 || No. of Tracks: 9 || Album Type: album
+
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 5AEDGbliTTfjOB8TSm1sxt || Album Name: Speak Now (Taylor's Version) || Release Date: 2023-07-07 || No. of Tracks: 22 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 1fnJ7k0bllNfL1kVdNVW1A || Album Name: Midnights (The Til Dawn Edition) || Release Date: 2023-05-26 || No. of Tracks: 23 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 3lS1y25WAhcqJDATJK70Mq || Album Name: Midnights (3am Edition) || Release Date: 2022-10-22 || No. of Tracks: 20 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 151w1FgRZfnKZA9FEcg9Z3 || Album Name: Midnights || Release Date: 2022-10-21 || No. of Tracks: 13 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 6kZ42qRrzov54LcAk4onW9 || Album Name: Red (Taylor's Version) || Release Date: 2021-11-12 || No. of Tracks: 30 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 4hDok0OAJd57SGIT8xuWJH || Album Name: Fearless (Taylor's Version) || Release Date: 2021-04-09 || No. of Tracks: 26 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 6AORtDjduMM3bupSWzbTSG || Album Name: evermore (deluxe version) || Release Date: 2021-01-07 || No. of Tracks: 17 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 2Xoteh7uEpea4TohMxjtaq || Album Name: evermore || Release Date: 2020-12-11 || No. of Tracks: 15 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 0PZ7lAru5FDFHuirTkWe9Z || Album Name: folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition] || Release Date: 2020-11-25 || No. of Tracks: 34 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 1pzvBxYgT6OVwJLtHkrdQK || Album Name: folklore (deluxe version) || Release Date: 2020-08-18 || No. of Tracks: 17 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 2fenSS68JI1h4Fo296JfGr || Album Name: folklore || Release Date: 2020-07-24 || No. of Tracks: 16 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 1NAmidJlEaVgA3MpcPFYGq || Album Name: Lover || Release Date: 2019-08-23 || No. of Tracks: 18 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 6DEjYFkNZh67HP7R9PSZvv || Album Name: reputation || Release Date: 2017-11-10 || No. of Tracks: 15 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 1MPAXuTVL2Ej5x0JHiSPq8 || Album Name: reputation Stadium Tour Surprise Song Playlist || Release Date: 2017-11-09 || No. of Tracks: 46 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 1yGbNOtRIgdIiGHOEBaZWf || Album Name: 1989 (Deluxe) || Release Date: 2014-01-01 || No. of Tracks: 19 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 5fy0X0JmZRZnVa2UEicIOl || Album Name: 1989 || Release Date: 2014-01-01 || No. of Tracks: 13 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 1KVKqWeRuXsJDLTW0VuD29 || Album Name: Red (Deluxe Edition) || Release Date: 2012-10-22 || No. of Tracks: 22 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 6fyR4wBPwLHKcRtxgd4sGh || Album Name: Speak Now World Tour Live || Release Date: 2010-10-25 || No. of Tracks: 16 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 6Ar2o9KCqcyYF9J0aQP3au || Album Name: Speak Now || Release Date: 2010-10-25 || No. of Tracks: 14 || Album Type: album
+Artist ID: 06HL4z0CvFAxyc27GXpf02 || Album ID: 6S6JQWzUrJVcJLK4fi74Fw || Album Name: Speak Now (Deluxe Package) || Release Date: 2010-01-01 || No. of Tracks: 22 || Album Type: album
+
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 2WFFcvzM0CgLaSq4MSkyZk || Album Name: - (Deluxe) || Release Date: 2023-05-05 || No. of Tracks: 18 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 2CIOGAByaHyjQ1EO55JSzC || Album Name: = (Tour Edition) || Release Date: 2022-05-27 || No. of Tracks: 23 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 32iAEBstCjauDhyKpGjTuq || Album Name: = || Release Date: 2021-10-29 || No. of Tracks: 14 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 0a28QsFN8zbrWSvbSQ40PI || Album Name: 2step (The Remixes) || Release Date: 2021-10-29 || No. of Tracks: 14 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 3oIFxDIo2fwuk4lwCmFZCx || Album Name: No.6 Collaborations Project || Release Date: 2019-07-12 || No. of Tracks: 15 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 3T4tUhGYeRNVUGevb0wThu || Album Name: ÷ (Deluxe) || Release Date: 2017-03-03 || No. of Tracks: 16 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 0MeOIA0wwSa6nW79jy8QcZ || Album Name: x (Wembley Edition) || Release Date: 2015-11-13 || No. of Tracks: 23 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 2hyDesSAYNefikDJXlqhPE || Album Name: 5 || Release Date: 2014-06-23 || No. of Tracks: 32 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 1xn54DMo2qIqBuMqHtUsFd || Album Name: x (Deluxe Edition) || Release Date: 2014-06-21 || No. of Tracks: 16 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 3QbPtoOWiJqZurXXxJwaOD || Album Name: Loose Change || Release Date: 2011-12-09 || No. of Tracks: 8 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 4JUtnlZKdLr01xEIymhm0G || Album Name: Live at the Bedford || Release Date: 2011-12-09 || No. of Tracks: 6 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 6DpIyaMgt5p9HlGd1c0LDM || Album Name: No.5 Collaborations Project || Release Date: 2011-09-09 || No. of Tracks: 8 || Album Type: album
+Artist ID: 6eUKZXaKkcviH0Ku9w2n3V || Album ID: 02pi98kE0nra0yBqCStzbC || Album Name: + || Release Date: 2011-09-09 || No. of Tracks: 16 || Album Type: album
+
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 06RK0wX4GqHcxBtHlVoGH5 || Album Name: Black Panther: Wakanda Forever - Music From and Inspired By || Release Date: 2022-11-11 || No. of Tracks: 20 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 4UlGauD7ROb3YbVOFMgW5u || Album Name: ANTI (Deluxe) || Release Date: 2016-01-28 || No. of Tracks: 16 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 48i37aZTC1prDr4EcpQeEa || Album Name: ANTI || Release Date: 2016-01-28 || No. of Tracks: 13 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 5pLlGJrxuQO3jMoQe1XxZY || Album Name: Unapologetic (Deluxe) || Release Date: 2012-12-11 || No. of Tracks: 17 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 4XBfFj0WYyh5mBtU61EdyY || Album Name: Unapologetic || Release Date: 2012-12-11 || No. of Tracks: 14 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 3sW7wD2qdMjs7KncaOoIJ5 || Album Name: Talk That Talk (Deluxe) || Release Date: 2012-07-18 || No. of Tracks: 14 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 1Kw1bVd07oRqcjrcjQKC8T || Album Name: Talk That Talk || Release Date: 2011-11-19 || No. of Tracks: 11 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 7vN82vd1Vq44fjlhjfvHJp || Album Name: Loud || Release Date: 2010-11-16 || No. of Tracks: 12 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 2wi0v7jPzYBCd99GggLtN8 || Album Name: Rated R: Remixed || Release Date: 2010-05-08 || No. of Tracks: 10 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 5QG3tjE5L9F6O2vCAPph38 || Album Name: Loud (Japan Version) || Release Date: 2010-01-01 || No. of Tracks: 13 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 7uGmyYwDFJbSc1xs4hkEs2 || Album Name: Rated R || Release Date: 2009-11-20 || No. of Tracks: 13 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 6nT2WJS6WHH86XRgkSK8yC || Album Name: Good Girl Gone Bad: The Remixes || Release Date: 2009-01-01 || No. of Tracks: 12 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 3JSWZWeTHF4HDGt5Eozdy7 || Album Name: Good Girl Gone Bad: Reloaded || Release Date: 2008-06-02 || No. of Tracks: 15 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 5pvFhFt1nzE8sCbm1wjNRv || Album Name: A Girl Like Me || Release Date: 2006-04-10 || No. of Tracks: 14 || Album Type: album
+Artist ID: 5pKCCKE2ajJHZ9KAiaK11H || Album ID: 4FyGpObwABjn0o8Tdp7AZz || Album Name: Music Of The Sun || Release Date: 2005-08-29 || No. of Tracks: 13 || Album Type: album
+
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 0HiZ8fNXwJOQcrf5iflrdz || Album Name: Endless Summer Vacation || Release Date: 2023-03-10 || No. of Tracks: 13 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 5G5s00CN4Kmxz340ED2WL2 || Album Name: ATTENTION: MILEY LIVE || Release Date: 2022-04-29 || No. of Tracks: 26 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 5BRhg6NSEZOj0BR6Iz56fR || Album Name: Plastic Hearts || Release Date: 2020-11-27 || No. of Tracks: 15 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 45wbw92Z6V8G8iPKFzSEPN || Album Name: SHE IS COMING || Release Date: 2019-05-31 || No. of Tracks: 7 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 5xG9gJcs9ut3qDWezHUlsX || Album Name: Younger Now || Release Date: 2017-09-29 || No. of Tracks: 11 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 6cfcdjtSR9ARnpnpwtEGaS || Album Name: Miley Cyrus & Her Dead Petz || Release Date: 2015-08-30 || No. of Tracks: 23 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 3RDqXDc1bAETps54MSSOW0 || Album Name: Bangerz (Deluxe Version) || Release Date: 2013-10-04 || No. of Tracks: 16 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 69Pf9ExxwjhVFyosKsKWQu || Album Name: Can't Be Tamed || Release Date: 2010-01-01 || No. of Tracks: 12 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 0IuHVgAvbNDJnJepuSZ8Oz || Album Name: The Time Of Our Lives (International Version) || Release Date: 2009-01-01 || No. of Tracks: 8 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 0Yu3czJNOQ68fZgkvpjuHL || Album Name: Breakout || Release Date: 2008-01-01 || No. of Tracks: 12 || Album Type: album
+Artist ID: 5YGY8feqx7naU7z4HrwZM6 || Album ID: 0lB2NEOuH7WRqaWotxmIDH || Album Name: Meet Miley Cyrus || Release Date: 2007-06-26 || No. of Tracks: 10 || Album Type: album
+
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 5rbJtzuXtpIP0Ykk7ewIit || Album Name: 7 || Release Date: 2018-09-14 || No. of Tracks: 27 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 7bpWEp24oHgUs08ImjakfU || Album Name: Listen Again || Release Date: 2015-11-27 || No. of Tracks: 46 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 77UW17CZFyCaRLHdHeofZu || Album Name: Listen || Release Date: 2014-11-21 || No. of Tracks: 18 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 4cm27QX0Xqgflgtj5ns470 || Album Name: Listen (Track by Track) || Release Date: 2014-10-05 || No. of Tracks: 15 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 4bTjdxhRRUiWfwj200f9Kl || Album Name: Nothing but the Beat (Ultimate Edition) || Release Date: 2012-12-07 || No. of Tracks: 29 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 5VCRvTmcCP2XIC7AtcttFx || Album Name: Nothing but the Beat (Bonus Commentary) || Release Date: 2011-08-30 || No. of Tracks: 22 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 5DJc5qCdB5pPrDO97LXjeW || Album Name: One More Love || Release Date: 2010-11-22 || No. of Tracks: 28 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 2CuI0AW9srCLZLMStZMift || Album Name: One Love (Club Version) || Release Date: 2009-11-27 || No. of Tracks: 15 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 6zJcDGIgURV28s5IdA9pSG || Album Name: Pop Life || Release Date: 2007-06-01 || No. of Tracks: 15 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 2YKWh8IkQkekPgg5RIEtOn || Album Name: Guetta Blaster || Release Date: 2004-06-04 || No. of Tracks: 12 || Album Type: album
+Artist ID: 1Cs0zKBU1kc0i8ypK3B9ai || Album ID: 05zYKC8heu3lCOPIEG9oS4 || Album Name: Just a Little More Love || Release Date: 2002-05-20 || No. of Tracks: 14 || Album Type: album
+
+Artist ID: 4q3ewBCX7sLwd24euuV69X || Album ID: 3RQQmkQEvNCY4prGKE6oc5 || Album Name: Un Verano Sin Ti || Release Date: 2022-05-06 || No. of Tracks: 23 || Album Type: album
+Artist ID: 4q3ewBCX7sLwd24euuV69X || Album ID: 2d9BCZeAAhiZWPpbX9aPCW || Album Name: EL ÚLTIMO TOUR DEL MUNDO || Release Date: 2020-11-27 || No. of Tracks: 16 || Album Type: album
+Artist ID: 4q3ewBCX7sLwd24euuV69X || Album ID: 4gvQO5mEuhbMSrLIuwXkmz || Album Name: LAS QUE NO IBAN A SALIR || Release Date: 2020-05-10 || No. of Tracks: 10 || Album Type: album
+Artist ID: 4q3ewBCX7sLwd24euuV69X || Album ID: 5lJqux7orBlA1QzyiBGti1 || Album Name: YHLQMDLG || Release Date: 2020-02-29 || No. of Tracks: 20 || Album Type: album
+Artist ID: 4q3ewBCX7sLwd24euuV69X || Album ID: 6ylFfzx32ICw4L1A7YWNLN || Album Name: OASIS || Release Date: 2019-06-28 || No. of Tracks: 8 || Album Type: album
+Artist ID: 4q3ewBCX7sLwd24euuV69X || Album ID: 7CjJb2mikwAWA1V6kewFBF || Album Name: X 100PRE || Release Date: 2018-12-23 || No. of Tracks: 15 || Album Type: album
+
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 3uPnO1aZBwMgWK1DI5zve9 || Album Name: Justice (The Complete Edition) || Release Date: 2021-10-08 || No. of Tracks: 25 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 6mzpIm84OXCBxw6Tuhp1OA || Album Name: Justice (Triple Chucks Deluxe) || Release Date: 2021-03-26 || No. of Tracks: 22 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 5dGWwsZ9iB2Xc3UKR0gif2 || Album Name: Justice || Release Date: 2021-03-19 || No. of Tracks: 16 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 63iWSELt9V1kV6RSMxN7Ii || Album Name: Changes || Release Date: 2020-02-14 || No. of Tracks: 17 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 6Fr2rQkZ383FcMqFyT7yPr || Album Name: Purpose (Deluxe) || Release Date: 2015-11-13 || No. of Tracks: 19 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 1rknZw4cyL9NInAqSwc8AA || Album Name: Journals || Release Date: 2014-05-13 || No. of Tracks: 16 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 4yz9rO7Q1UC2rK5eLOxmS7 || Album Name: Believe Acoustic || Release Date: 2013-01-01 || No. of Tracks: 11 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 70f70xLCpH7wHaVvB2oZT9 || Album Name: Believe (Deluxe Edition) || Release Date: 2012-06-15 || No. of Tracks: 17 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 5cxMa6oLINJzmZ8lF7wWQN || Album Name: Believe || Release Date: 2012-01-01 || No. of Tracks: 13 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 63MKT9hwmiMFFdFp5SdB1p || Album Name: Under The Mistletoe (Deluxe Edition) || Release Date: 2011-01-01 || No. of Tracks: 15 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 3cr4Xgz8nnfp7iYbVqwzzH || Album Name: Under The Mistletoe || Release Date: 2011-01-01 || No. of Tracks: 11 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 0wZJCeyfJ0LVrrtH4CwQYw || Album Name: Never Say Never - The Remixes || Release Date: 2011-01-01 || No. of Tracks: 7 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 0ALfQaGYSvcRNV5OLbixA3 || Album Name: My Worlds (International Version) || Release Date: 2010-01-01 || No. of Tracks: 18 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 3BmcYMh0KYsimWL6p2gPa9 || Album Name: My World 2.0 || Release Date: 2010-01-01 || No. of Tracks: 10 || Album Type: album
+Artist ID: 1uNFoZAHBGtllmzznpCI3s || Album ID: 1rG5TDs3jYh6OU753I54CI || Album Name: My World || Release Date: 2009-01-01 || No. of Tracks: 7 || Album Type: album
+
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 5MS3MvWHJ3lOZPLiMxzOU6 || Album Name: Her Loss || Release Date: 2022-11-04 || No. of Tracks: 16 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 3cf4iSSKd8ffTncbtKljXw || Album Name: Honestly, Nevermind || Release Date: 2022-06-17 || No. of Tracks: 14 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 3SpBlxme9WbeQdI9kx7KAV || Album Name: Certified Lover Boy || Release Date: 2021-09-03 || No. of Tracks: 21 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 6OQ9gBfg5EXeNAEwGSs6jK || Album Name: Dark Lane Demo Tapes || Release Date: 2020-05-01 || No. of Tracks: 14 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 7dqpveMVcWgbzqYrOdkFTD || Album Name: Care Package || Release Date: 2019-08-02 || No. of Tracks: 17 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 1ATL5GLyefJaxhQzSPVrLX || Album Name: Scorpion || Release Date: 2018-06-29 || No. of Tracks: 25 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 1lXY618HWkwYKJWBRYR4MK || Album Name: More Life || Release Date: 2017-03-18 || No. of Tracks: 22 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 40GMAhriYJRO1rsY4YdrZb || Album Name: Views || Release Date: 2016-05-06 || No. of Tracks: 20 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 1ozpmkWcCHwsQ4QTnxOOdT || Album Name: What A Time To Be Alive || Release Date: 2015-09-20 || No. of Tracks: 11 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 0ptlfJfwGTy0Yvrk14JK1I || Album Name: If You're Reading This It's Too Late || Release Date: 2015-02-12 || No. of Tracks: 17 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 2ZUFSbIkmFkGag000RWOpA || Album Name: Nothing Was The Same (Deluxe) || Release Date: 2013-01-01 || No. of Tracks: 16 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 1XslIirSxfAhhxRdn4Li9t || Album Name: Nothing Was The Same || Release Date: 2013-01-01 || No. of Tracks: 13 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 6X1x82kppWZmDzlXXK3y3q || Album Name: Take Care (Deluxe) || Release Date: 2011-11-15 || No. of Tracks: 19 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 6agmeioaDOBupymziJihgB || Album Name: Thank Me Later (Int'l Version) || Release Date: 2010-01-01 || No. of Tracks: 15 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 6cBEXcGAITJteTAkbSneXd || Album Name: Thank Me Later || Release Date: 2010-01-01 || No. of Tracks: 14 || Album Type: album
+Artist ID: 3TVXtAsR1Inumwj472S9r4 || Album ID: 1LShhEEKRT5MNPcO7jtYHh || Album Name: So Far Gone || Release Date: 2009 || No. of Tracks: 18 || Album Type: album
+
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 6WaruQqgJzSlSzZz2YdUku || Album Name: Laundry Service: Washed and Dried (Expanded Edition) || Release Date: 2021-11-12 || No. of Tracks: 17 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 5EdGgMlsJ7bv8IUqkaaPZN || Album Name: Shakira In Concert: El Dorado World Tour || Release Date: 2019-11-13 || No. of Tracks: 20 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 6bUxh58rYTL67FS8dyTKMN || Album Name: El Dorado || Release Date: 2017-05-26 || No. of Tracks: 13 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 4nXeW6UwZGBnv6zops27k4 || Album Name: Shakira. (Expanded Edition) || Release Date: 2014-03-14 || No. of Tracks: 15 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 5meb7aKE722LA66ssBhvfM || Album Name: Shakira. (Expanded Edition) [Spanish Version] || Release Date: 2014-03-13 || No. of Tracks: 15 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 0qE6Dd97eQiywwpbrhb5fX || Album Name: Live From Paris || Release Date: 2011-12-05 || No. of Tracks: 19 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 3gR578qnw47M30LVBTjrlW || Album Name: Sale el Sol || Release Date: 2010-10-19 || No. of Tracks: 16 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 5u0OuxRnf3FzvZR07xAxL2 || Album Name: She Wolf (Expanded Edition) || Release Date: 2009 || No. of Tracks: 16 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 5ppnlEoj4HdRRdRihnY3jU || Album Name: Oral Fixation, Vol. 2 (Expanded Edition) || Release Date: 2005-11-28 || No. of Tracks: 13 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 3zHPYwiMJqa3hTBgk695Ae || Album Name: Fijación Oral, Vol. 1 || Release Date: 2005-06-03 || No. of Tracks: 12 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 5f5LXKRiPDf23T5QM2MEmX || Album Name: Live & Off The Record || Release Date: 2004-03-22 || No. of Tracks: 10 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 4DyMK9x2gnmRkRa16zHaEV || Album Name: Laundry Service || Release Date: 2001-11-13 || No. of Tracks: 13 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 3yQQUyIA3vRIRnB4rqtThe || Album Name: Shakira MTV Unplugged || Release Date: 2000-02-29 || No. of Tracks: 11 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 5hcKSTqKOLuzJgYIQileAe || Album Name: Donde Estan Los Ladrones || Release Date: 1998-09-29 || No. of Tracks: 11 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 2G7F89aCUNtwnj3vYKNMfF || Album Name: The Remixes || Release Date: 1997-10-21 || No. of Tracks: 12 || Album Type: album
+Artist ID: 0EmeFodog0BfCgMzAIvKQp || Album ID: 3HLngzP9wVd8p3SMDQgyd9 || Album Name: Pies Descalzos || Release Date: 1995-10-06 || No. of Tracks: 11 || Album Type: album
+
