@@ -102,8 +102,6 @@ with open(album_path, 'w') as album_file, open(track_path, 'w') as track_file:
 album_file.close()
 track_file.close()
 
-# bir satırda 1 tane track ve bir satırda 1 tane album
-
 """
 USEFUL DATA WHICH CAN BE ACQUIRED FROM EACH SONG
 1. Available Markets -> list of strings -> ['TR']
